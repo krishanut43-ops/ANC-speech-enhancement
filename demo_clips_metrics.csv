@@ -1,0 +1,16 @@
+name,noise,noise_file,input_snr,snr_in,snr_out,stoi_in,stoi_out,pesq_in,pesq_out
+gunshot_snr-5,gunshot,7068-6-0-0.wav,-5,-5.0,13.32,0.777,0.902,1.26,2.13
+gunshot_snr+0,gunshot,163460-6-0-0.wav,0,-0.0,11.58,0.646,0.904,1.22,1.67
+gunshot_snr+5,gunshot,174290-6-1-0.wav,5,5.0,17.81,0.886,0.873,2.61,2.76
+helicopter_snr-5,helicopter,5-177957-D-40.wav,-5,-5.0,4.42,0.794,0.856,1.07,1.52
+helicopter_snr+0,helicopter,3-68630-C-40.wav,0,-0.0,9.37,0.611,0.753,1.23,1.5
+helicopter_snr+5,helicopter,4-193480-B-40.wav,5,5.0,9.64,0.776,0.845,1.16,1.52
+vehicle_snr-5,vehicle,4-186940-A-44.wav,-5,-5.0,8.48,0.715,0.789,1.1,1.35
+vehicle_snr+0,vehicle,118558-5-2-2.wav,0,0.0,9.15,0.817,0.874,1.05,1.25
+vehicle_snr+5,vehicle,103249-5-0-6.wav,5,5.0,9.72,0.792,0.875,1.19,1.91
+wind_snr-5,wind,2-109371-C-16.wav,-5,-5.0,6.31,0.769,0.851,1.05,1.28
+wind_snr+0,wind,2-109371-B-16.wav,0,0.0,10.32,0.787,0.864,1.1,1.46
+wind_snr+5,wind,5-157204-B-16.wav,5,5.0,20.0,0.94,0.969,1.34,2.78
+siren_snr-5,siren,74726-8-0-7.wav,-5,-5.0,12.05,0.776,0.893,1.27,1.78
+siren_snr+0,siren,1-76831-C-42.wav,0,-0.0,11.64,0.731,0.874,1.16,1.93
+siren_snr+5,siren,159752-8-2-1.wav,5,5.0,12.17,0.88,0.954,1.18,2.11

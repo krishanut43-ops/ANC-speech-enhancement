@@ -1,0 +1,10 @@
+torch>=2.3
+numpy
+scipy
+soundfile
+pystoi
+pesq
+tensorboard
+onnx
+onnxruntime
+# On Jetson AGX Orin: install JetPack's PyTorch wheel and TensorRT (python3-libnvinfer) from NVIDIA, not from PyPI.
